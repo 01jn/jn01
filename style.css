@@ -1,8 +1,30 @@
 body {
     background-color: dimgrey;
+    margin: 5px;
 }
 
 p{
     color: crimson;
     text-align: center;
+}
+tfi {
+font-style: oblique;
+color: crimson;
+}
+FURIA {
+    width: 30%;
+}
+header {
+    border-bottom: red (92, 170, 196);
+padding: 20px;
+font-size: 32px;
+color: red (67, 155, 108);
+}
+
+section {
+    background: mediumblue (195, 29, 29);
+    padding-bottom: 40px;
+    padding-top: 50px;
+    display: flex;
+    justify;
 }
